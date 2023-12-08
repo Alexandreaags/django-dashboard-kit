@@ -41,7 +41,7 @@ section {
 }
 
 .bg-dark .title h2 span {
-    color: #fff;
+    color: #000000;
 }
 
 .theme-alt-bg {
@@ -57,7 +57,7 @@ section {
 .title h2 {
     margin-bottom: 15px;
     z-index: 3;
-    color: #293240;
+    color: #FFFFFF;
     margin-top: 15px;
     text-transform: capitalize;
 }
@@ -96,7 +96,7 @@ section {
 }
 
 .navbar:hover {
-    background: #161c25;
+    background: #009374;
 }
 
 .navbar.default {
